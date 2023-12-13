@@ -1,2 +1,2 @@
-from .categories_controller import category_add, categories_get_all, category_get_by_id
-from .products_controller import product_add, products_get_all
+from .categories_controller import category_add, categories_get_all, category_get_by_id, category_update_by_id, category_activity, category_delete_by_id
+from .products_controller import product_add, products_get_all, product_update_by_id, product_get_by_id, product_activity, product_delete_by_id
